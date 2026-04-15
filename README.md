@@ -1,3 +1,1 @@
-hello
-branch test
-diff test
+BBB
